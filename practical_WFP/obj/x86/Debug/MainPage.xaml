@@ -55,7 +55,7 @@
                   />
         <Button x:ConnectionId='5' Grid.Row="3"
                 Grid.Column="2"
-                                    >Order</Button>
+                                    >ORDER</Button>
 
         <GridView x:ConnectionId='6' x:Name="ProductList" 
                   Grid.Row="4" Grid.ColumnSpan="4"

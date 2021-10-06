@@ -47,8 +47,8 @@ namespace practical_WFP
         {            
             ProductList.Items.Add(new Product
             {
-                Name = "Sample 1",
-                Description = "Lorem ipsum",
+                Name = "vi du",
+                Description = "aaaaaaaaa",
                 ImagePath = "Assets/LockScreenLogo.scale-200.png"
             });            
         }

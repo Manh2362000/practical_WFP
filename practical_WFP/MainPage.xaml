@@ -55,7 +55,7 @@
                   />
         <Button Grid.Row="3"
                 Grid.Column="2"
-                Click="Button_Click">Order</Button>
+                Click="Button_Click">ORDER</Button>
 
         <GridView x:Name="ProductList" 
                   Grid.Row="4" Grid.ColumnSpan="4"
